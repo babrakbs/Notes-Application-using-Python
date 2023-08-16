@@ -1,6 +1,6 @@
 # Title: ***Notes-Application-using-Python***
 
-**Author**: Babrak Sohail  
+## **Author**: Babrak Sohail  
 language: en-US
 ## Description:  
 * This CLI based application supports:
